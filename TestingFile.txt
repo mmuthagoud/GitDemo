@@ -1,6 +1,5 @@
 This is a test file
+This is to check deleted functionality
 
-This is a test file
 
-this is not test file
 
