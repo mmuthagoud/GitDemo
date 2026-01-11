@@ -1,3 +1,7 @@
 Get the user data...
 
+<<<<<<< HEAD
+feature branch
+=======
 THis is to test
+>>>>>>> testing
