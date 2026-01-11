@@ -1,1 +1,1 @@
-stashing file
+Git stashing file
